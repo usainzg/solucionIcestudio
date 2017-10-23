@@ -21,4 +21,7 @@ Para editar estos datos:
 * Preferencias del Sistema/Seguridad y privacidad/Permitir apps descargadas...
 * Tendreis que darle a "Abrir igualmente" o algo por el estilo.
 
+### Nota:
+* Si moveis la aplicacion "ñapaFPGA" a Aplicaciones, podreis ejecutarla desde el Launchpad sin ningun problema.
+
 

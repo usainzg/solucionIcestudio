@@ -17,4 +17,8 @@ Para editar estos datos:
 * Guardar.
 * Ahora solo tendreís que ejecutar la aplicación "ñapaFPGA", que es como ejecutar Icestudio con permisos de root. Y no deberia de pediros nunca la mas la password.
 
+### Si al ejecutar os pide permisos...
+* Preferencias del Sistema/Seguridad y privacidad/Permitir apps descargadas...
+* Tendreis que darle a "Abrir igualmente" o algo por el estilo.
+
 
